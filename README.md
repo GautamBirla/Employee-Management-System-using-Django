@@ -16,7 +16,7 @@ Usage
 Add new employees, manage their status, and view records in a responsive table.
 
 Installation
-Clone the repo: git clone https://github.com/your-username/employee-management-system.git
+Clone the repo: git clone https://github.com/GautamBirla/Employee-Management-System-using-Django
 
 Set up virtual environment and install dependencies.
 
